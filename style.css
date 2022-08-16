@@ -1,0 +1,33 @@
+body{
+    background-color:  #e3f2fdc7;
+}
+.txt-header{
+    color: aliceblue;
+}
+.padding_card{
+    padding-left: 30%;
+}
+
+.card{
+    width: auto;
+    margin-top: 15%;
+}
+.log{
+    align-items: center;
+    margin-left: 35%;
+    margin-right: 30%;
+    margin-top: 5%;
+}
+.rt-close{
+    float: right !important;
+    padding-right: 225px !important;
+}
+label{
+    font-size: large;
+}
+.pic{
+    margin-left: 25%;
+}
+.name{
+    text-shadow: 2px 2px #3949ab;
+}
